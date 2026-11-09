@@ -110,7 +110,7 @@ export default function FooterSection() {
           className="text-white/50 text-xs mt-3"
           style={{ fontFamily: 'Quicksand' }}
         >
-          © 2027 · Jennaira Nala Bestari · 1st Birthday
+          © 2027 · Jennaira Nala Bestari · 3rd Birthday
         </p>
       </div>
     </footer>
