@@ -2,7 +2,7 @@ import React from 'react'
 
 function handleShare() {
   const text = encodeURIComponent(
-    'Yuk datang ke ultah Jennaira yang ke 3! 🎀🎂\n\nJennaira Nala Bestari - Ulang Tahun Ke-1\n📅 02 April 2027 | 16.00–18.00 WITA\n📍 Mamuju, Sulawesi Barat\n\nAku tunggu ya! 💕'
+    'Yuk datang ke ultah Jennaira yang ke 3! 🎀🎂\n\n📅 02 April 2027 | 16.00–18.00 WITA\n📍 Mamuju, Sulawesi Barat\n\nAku tunggu ya! 💕'
   )
   window.open(`https://wa.me/?text=${text}`, '_blank', 'noopener noreferrer')
 }
